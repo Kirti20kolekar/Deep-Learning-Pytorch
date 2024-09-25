@@ -4,5 +4,4 @@ python-dotenv
 mysql-connector-python
 pymysql
 scikit-learn
-# If you want to install the package in editable mode, uncomment the next line
-# -e .
+#-e .
