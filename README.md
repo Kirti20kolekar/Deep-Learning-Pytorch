@@ -10,3 +10,4 @@ End to End Toy Project
 How to Frame a Machine Learning Problem
 Working with CSV files
 Working with JSON/SQL
+Fetching Data From an API 
