@@ -9,3 +9,4 @@ What are Tensors | Tensor In-depth Explanation | Tensor in Machine Learning
 End to End Toy Project
 How to Frame a Machine Learning Problem
 Working with CSV files
+Working with JSON/SQL
