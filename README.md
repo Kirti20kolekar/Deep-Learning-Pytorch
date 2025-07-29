@@ -12,3 +12,5 @@ Working with CSV files
 Working with JSON/SQL
 Fetching Data From an API 
 Fetching data using Web Scraping
+Understanding Your Data 
+EDA using Univariate Analysis 
