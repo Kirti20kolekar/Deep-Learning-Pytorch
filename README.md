@@ -20,3 +20,4 @@ What is Feature Engineering
 Feature Scaling - Standardization
 Feature Scaling - Normalization
 Encoding Categorical Data | Ordinal Encoding | Label Encoding
+One Hot Encoding | Handling Categorical Data
