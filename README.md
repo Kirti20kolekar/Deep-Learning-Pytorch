@@ -15,3 +15,4 @@ Fetching data using Web Scraping
 Understanding Your Data 
 EDA using Univariate Analysis 
 EDA using Bivariate and Multivariate Analysis
+Pandas Profiling 
