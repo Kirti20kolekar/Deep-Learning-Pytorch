@@ -19,3 +19,4 @@ Pandas Profiling
 What is Feature Engineering 
 Feature Scaling - Standardization
 Feature Scaling - Normalization
+Encoding Categorical Data | Ordinal Encoding | Label Encoding
