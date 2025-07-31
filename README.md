@@ -27,3 +27,5 @@ Function Transformer | Log Transform | Reciprocal Transform | Square Root Transf
 Power Transformer | Box - Cox Transform | Yeo - Johnson Transform
 Binning and Binarization | Discretization | Quantile Binning | KMeans Binning
 Handling Mixed Variables | Feature Engineering
+Handling Date and Time Variables 
+Handling Missing Data
