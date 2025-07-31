@@ -30,3 +30,4 @@ Handling Mixed Variables | Feature Engineering
 Handling Date and Time Variables 
 Handling Missing Data - CCA
 Handling missing data | Numerical Data | Simple Imputer
+Handling Missing Categorical Data | Simple Imputer | Most Frequent Imputation | Missing Category Imp
