@@ -29,3 +29,4 @@ Binning and Binarization | Discretization | Quantile Binning | KMeans Binning
 Handling Mixed Variables | Feature Engineering
 Handling Date and Time Variables 
 Handling Missing Data - CCA
+Handling missing data | Numerical Data | Simple Imputer
