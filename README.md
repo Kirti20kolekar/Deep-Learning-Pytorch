@@ -24,3 +24,4 @@ One Hot Encoding | Handling Categorical Data
 Column Transformer in Machine Learning 
 Machine Learning Pipelines A-Z
 Function Transformer | Log Transform | Reciprocal Transform | Square Root Transform
+Power Transformer | Box - Cox Transform | Yeo - Johnson Transform
