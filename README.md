@@ -36,7 +36,8 @@ KNN Imputer | Multivariate Imputation | Handling Missing
 Multivariate Imputation by Chained Equations for Missing Value | MICE Algorithm | Iterative Imputer
 What are Outliers | Outliers in Machine Learning
 Outlier Detection and Removal using Z-score Method
-
+Outlier Detection and Removal using IQR Method
+Outlier Detection using the Percentile Method | Winsorization Technique
 
 
 
