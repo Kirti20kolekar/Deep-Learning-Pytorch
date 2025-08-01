@@ -34,8 +34,8 @@ Handling Missing Categorical Data | Simple Imputer | Most Frequent Imputation | 
 Missing Indicator | Random Sample Imputation 
 KNN Imputer | Multivariate Imputation | Handling Missing
 Multivariate Imputation by Chained Equations for Missing Value | MICE Algorithm | Iterative Imputer
-
-
+What are Outliers | Outliers in Machine Learning
+Outlier Detection and Removal using Z-score Method
 
 
 
