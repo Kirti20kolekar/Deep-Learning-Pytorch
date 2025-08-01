@@ -32,3 +32,22 @@ Handling Missing Data - CCA
 Handling missing data | Numerical Data | Simple Imputer
 Handling Missing Categorical Data | Simple Imputer | Most Frequent Imputation | Missing Category Imp
 Missing Indicator | Random Sample Imputation 
+KNN Imputer | Multivariate Imputation | Handling Missing
+Multivariate Imputation by Chained Equations for Missing Value | MICE Algorithm | Iterative Imputer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
