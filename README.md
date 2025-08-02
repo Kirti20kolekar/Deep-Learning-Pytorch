@@ -40,7 +40,7 @@ Outlier Detection and Removal using IQR Method
 Outlier Detection using the Percentile Method | Winsorization Technique
 Feature Construction | Feature Splitting
 Curse of Dimensionality
-
+Principle Component Analysis (PCA) | Part 1 | Geometric Intuition
 
 
 
