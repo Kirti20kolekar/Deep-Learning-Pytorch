@@ -41,7 +41,7 @@ Outlier Detection using the Percentile Method | Winsorization Technique
 Feature Construction | Feature Splitting
 Curse of Dimensionality
 Principle Component Analysis (PCA) | Part 1 | Geometric Intuition
-
+Principle Component Analysis (PCA) | Part 2 | Problem Formulation and Step by Step Solution
 
 
 
