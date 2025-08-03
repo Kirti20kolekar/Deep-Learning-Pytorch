@@ -43,7 +43,7 @@ Curse of Dimensionality
 Principle Component Analysis (PCA) | Part 1 | Geometric Intuition
 Principle Component Analysis (PCA) | Part 2 | Problem Formulation and Step by Step Solution
 Principle Component Analysis(PCA) | Part 3 | Code Example and Visualization
-
+Simple Linear Regression 
 
 
 
