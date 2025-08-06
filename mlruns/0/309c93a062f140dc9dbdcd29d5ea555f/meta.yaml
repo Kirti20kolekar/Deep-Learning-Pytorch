@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Projects/Github%20and%20Code%20Setup/MLProject/mlruns/0/309c93a062f140dc9dbdcd29d5ea555f/artifacts
+end_time: 1727333466171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 309c93a062f140dc9dbdcd29d5ea555f
+run_name: welcoming-frog-949
+run_uuid: 309c93a062f140dc9dbdcd29d5ea555f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727333463409
+status: 3
+tags: []
+user_id: root
